@@ -34,8 +34,7 @@ __Python Learnings__-
 
 ### Wednesday
 1. Sync With Team- update on current project and learnings given
-2. Sync with Afolabi- structuring how to build the prototype for the 9mobile POV
-
+2. Sync with Afolabi- structuring how to build the prototype for the 9mobile POV for the customer segmentation business use case.
 
 
 
