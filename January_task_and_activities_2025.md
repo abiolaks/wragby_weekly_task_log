@@ -36,6 +36,19 @@ __Python Learnings__-
 1. Sync With Team- update on current project and learnings given
 2. Sync with Afolabi- structuring how to build the prototype for the 9mobile POV for the customer segmentation business use case.
 
+ 
+### Thurday
+1. Data representation using word2vec and transformer library
+2. Research into 9 mobilbe customer segmentation
+3. implemtation of 9 mobile POV
+ 
+### Friday
+1. Debugging of code implementation for 9 mobile POV
+2. Sync with Afolabi on 9 mobilr POV
+3. Sync with Team on 9 mobile POV
+4. Learning on Agentic Ai: autonomous Ai for task planning, tooling and excution
+ 
+
 
 
 
